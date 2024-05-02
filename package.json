@@ -2,7 +2,7 @@
   "name": "click-outside",
   "version": "1.0.0",
   "type": "module",
-  "description": "click outside hook",
+  "description": "click outside hook ",
   "main": "dist/index.js",
   "scripts": {
     "build:dev": "rollup -c --environment NODE_ENV:development",
