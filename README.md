@@ -1,2 +1,2 @@
-# rollup
-Example npm package with rollup
+# click-outside
+useOnClickOutside npm package
